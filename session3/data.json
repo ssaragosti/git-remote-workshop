@@ -27,6 +27,10 @@
     {
       "name": "Lavender",
       "cost": 60
+    },
+    {
+      "name": "Daffodils",
+      "cost": 32
     }
   ]
 }
